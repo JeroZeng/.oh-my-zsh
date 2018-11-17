@@ -1,6 +1,12 @@
 ## Getting Started
 
+#install zsh
 
+ubuntu: apt-get install zsh
+centos: yum install zsh
+
+#config zsh
+refer to install.sh
 
 ## Uninstalling Oh My Zsh
 
